@@ -6,6 +6,8 @@
 Welcome to prac's documentation!
 ================================
 
+this is testing, welcome
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
